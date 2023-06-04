@@ -12,7 +12,7 @@
 
 ## [Dashboard - Vendas](https://app.powerbi.com/view?r=eyJrIjoiZjI0YzdiMDItOGYzOS00ODhiLTk5YzQtYWFjOTdjNDhkMjA5IiwidCI6IjJmNTVjZDkzLWFhMzctNGYxNy1hZWI0LTE4NWQwMmY4ZTMxZCJ9)
 
-![Dashboard-Vendas-1](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/c0e816bd-9435-4806-92d3-ae4008a4a6e1)
+![Dashboard-Vendas-1](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/18cd84f4-497a-4953-a34f-a5b334fa63b2)
 
 ![Dashboard-Vendas-2](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/f78b155f-4713-4bb1-899a-5ec535ef91a5)
 
