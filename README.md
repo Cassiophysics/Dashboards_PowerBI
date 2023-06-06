@@ -22,5 +22,9 @@
 
 ![Dashboard-AnaliseDeInvestimentos-2](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/ac67515c-bb1f-4d92-a17d-1a2f3b4889b1)
 
+## [Dashboard - Produção](https://app.powerbi.com/view?r=eyJrIjoiODVlNjEwNGItMTcwNy00ZWNmLWEyNWYtN2IzZjQ5NmU1NTQ1IiwidCI6IjJmNTVjZDkzLWFhMzctNGYxNy1hZWI0LTE4NWQwMmY4ZTMxZCJ9)
 
+![Dashboard-Producao-1](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/b82fcfa3-767f-477b-b09f-65ed9b6d9ff3)
+
+![Dashboard-Producao-2](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/6a8281b1-9e97-4d9b-bf3f-cd73289a8621)
 
