@@ -28,3 +28,12 @@
 
 ![Dashboard-Producao-2](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/6a8281b1-9e97-4d9b-bf3f-cd73289a8621)
 
+## [Dashboard - Compras](https://app.powerbi.com/view?r=eyJrIjoiMThmOTZlOWYtYjJjNy00NzhlLWI4NzYtZjFjZTJiMTU4NTJhIiwidCI6IjJmNTVjZDkzLWFhMzctNGYxNy1hZWI0LTE4NWQwMmY4ZTMxZCJ9)
+
+![Dashboard-Compras-1](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/a7a9063d-4611-4753-8e54-81229cd85771)
+
+![Dashboard-Compras-2](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/0f39a9b0-1c14-40f2-a68a-a111f64ef1d6)
+
+![Dashboard-Compras-3](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/508fd7e7-b964-4154-a27c-8ee421082228)
+
+
