@@ -38,4 +38,6 @@
 
 ![Dashboard-Compras-3](https://github.com/Cassiophysics/Dashboards_PowerBI/assets/108491443/508fd7e7-b964-4154-a27c-8ee421082228)
 
+## [Dashboard - Jogos FORTALEZA ESPORTE CLUBE](https://app.powerbi.com/view?r=eyJrIjoiMjkwNGY1MWQtMTRhOS00NGZiLTgzNjUtMTliZmI5YTE1OGUxIiwidCI6IjJmNTVjZDkzLWFhMzctNGYxNy1hZWI0LTE4NWQwMmY4ZTMxZCJ9)
+
 
